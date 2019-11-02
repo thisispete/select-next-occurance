@@ -3,6 +3,7 @@
 	"displayName": "select-next-occurance",
 	"description": "selects the next (or previous) occurance of the currently selected text within a file",
 	"version": "0.0.1",
+	"publisher": "thisispete",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
